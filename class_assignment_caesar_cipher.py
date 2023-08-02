@@ -36,5 +36,5 @@ for char in plain_text:
         char = substitution[char]
     secret_text += char
   
-print(secret_text)
+print("The encrypted sentence is:", secret_text)
     
